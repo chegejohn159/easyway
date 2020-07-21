@@ -5,7 +5,7 @@ chardet==3.0.4
 colorama==0.4.3
 confusable-homoglyphs==3.2.0
 cryptography==2.9.2
-Django==2.2.2
+Django==2.2.13
 django-bootstrap3==9.1.0
 django-cors-headers==3.4.0
 django-google-maps==0.12.1

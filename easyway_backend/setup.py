@@ -75,7 +75,7 @@ setup(
     install_requires=[
                     'requests==2.18.4',
                     'confusable-homoglyphs==3.2.0',
-                    'Django==2.2.2',
+                    'Django==2.2.13',
                     'django-bootstrap3==9.1.0',
                     'django-cors-headers==3.4.0',
                     'django-google-maps==0.12.1',
